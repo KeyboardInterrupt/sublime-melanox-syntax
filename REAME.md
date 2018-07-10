@@ -10,14 +10,9 @@ Sublime Text 2 Syntax Definitition for Melanox router/switch/firewall configurat
 
 **With Git:** Clone the repository in your Sublime Text "Packages" directory:
 
-    git clone git://github.com/KeyboardInterrupt/sublime-Melanox-syntax.git
+    git clone git://github.com/KeyboardInterrupt/sublime-melanox-syntax.git
 
 ## Usage
 Once installed navigate to View->Syntax->Melanox to apply the Melanox syntax to the document.
 
 This syntax definition will automatically be applied to .txt files and .cfg files.
-
-## Customizing
-Once Melanox syntax is turned on you can then try different color schemes by going to Preferences -> Color Schemes.
-
-If you wish to customize this even further for your own needs navigate to the Melanox package (Preferences -> Browse Packages). Edit the `Melanox Definitions.json-tmlanguage` file within Sublime Text 2/3. Install AAAPackageDev. After your changes go to Tools -> Build, to rebuild the syntax definitions.
