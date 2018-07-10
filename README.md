@@ -13,6 +13,7 @@ Sublime Text 2 Syntax Definitition for Mellanox router/switch/firewall configura
     git clone git://github.com/KeyboardInterrupt/sublime-mellanox-syntax.git
 
 ## Usage
+
 Once installed navigate to View->Syntax->Mellanox to apply the Mellanox syntax to the document.
 
 This syntax definition will automatically be applied to .txt files and .cfg files.
